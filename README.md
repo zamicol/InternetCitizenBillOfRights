@@ -12,7 +12,7 @@ Freedom to communicate or not with any willing individual and device.
 Freedom to use owned computerware for any non-violent purpose.
 
 ## Freedom to Alter
-Freedom to modify all owned computerware for any non-violent purpose.
+Freedom to modify owned computerware for any non-violent purpose.
 
 ## Freedom of Memory
 Freedom to store, copy, and own all observations.  
