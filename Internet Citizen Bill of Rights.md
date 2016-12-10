@@ -1,6 +1,6 @@
 Internet Citizen Bill of Rights
 ===============================
-An open enumeration of the natural rights empowering all individuals reflected by the technological realities of the Internet and networked intelligence.  Proper acknowledgement of these natural rights should embrace the guarantee of individual security in their abilities protected from artificial mutability, limitation, or infringement by external entities.  
+An open enumeration of the natural rights empowering all individuals reflected by the technological realities of the Internet.
 
 ## Freedom to Create
 Freedom of personal autonomy to conceive, design, and produce.  
