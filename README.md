@@ -1,33 +1,34 @@
 Internet Citizen Bill of Rights
 ===============================
-An open enumeration of the natural rights empowering all individuals reflected by the technological realities of the Internet and networked intelligence.  Proper acknowledgement of these natural rights should embrace the guarantee of individual security in their abilities protected from artificial mutability, limitation, or infringement by external entities.  
+An enumeration of natural rights empowering all individuals reflected by the
+technological realities of the Internet.
 
 ## Freedom to Create
-Freedom of personal autonomy to conceive, design, and produce.  
+Freedom of personal autonomy to conceive, design, and produce anything.
 
 ## Freedom to Network
-Freedom to communicate or not with any willing individual and device. 
+Freedom to any communication or refusal of communication with all willing individuals and systems.
 
-## Freedom of Control 
+## Freedom of Memory
+Freedom to store, copy, and own all observations.
+
+## Freedom to Share
+Freedom to distribute any possessed data including copies and alterations.
+
+## Freedom of Control
 Freedom to use owned computerware for any non-violent purpose.
 
 ## Freedom to Alter
 Freedom to modify owned computerware for any non-violent purpose.
 
-## Freedom of Memory
-Freedom to store, copy, and own all observations.  
-
-## Freedom to Share
-Freedom to distribute any data including copies and alterations.
-
-##Freedom of Property
-Freedom to have owned computerware free from artificial encumbrance.  
+## Freedom of Property
+Freedom to have owned computerware free from any artificial encumbrance.
 
 ## Freedom of Awareness
-Freedom to understand owned computerware architecture.  
+Freedom to fully understand owned computerware architecture and function.
 
-## Freedom of Security 
-Freedom to protect and defend against undesirable externalities.  
+## Freedom of Security
+Freedom to protect against any undesirable externalities or functions.
 
-## Freedom of Privacy 
-Freedom to be secure from observation in reasonable private places.  
+## Freedom of Privacy
+Freedom to be secure from all undesired observations in private places.
