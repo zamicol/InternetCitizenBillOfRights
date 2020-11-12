@@ -22,7 +22,7 @@ Freedom to use owned computerware for any non-violent purpose.
 Freedom to modify owned computerware for any non-violent purpose.
 
 ## Freedom of Property
-Freedom to have owned computerware free from any artificial encumbrance.
+Freedom to own computerware free from any artificial encumbrance or unwanted interferance.
 
 ## Freedom of Awareness
 Freedom to fully understand owned computerware architecture and function.
